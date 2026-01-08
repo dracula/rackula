@@ -6,7 +6,7 @@
 
 ## About
 
-Rackula helps you plan and document your homelab rack layouts with an intuitive drag-and-drop interface. Designed from the ground up with the Dracula color palette.
+Rackula helps you plan and document your homelab rack layouts with an intuitive drag-and-drop interface. Designed from the ground up with the Dracula color palette for dark mode, with Alucard for light mode.
 
 ## Install
 
