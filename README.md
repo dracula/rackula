@@ -1,12 +1,8 @@
-# Rackula
+# Dracula for [Rackula](https://count.racku.la)
 
-> A drag-and-drop rack visualizer for homelab planning — built with Dracula.
+> A dark theme for [Rackula](https://count.racku.la).
 
 ![Screenshot](./screenshot.png)
-
-## About
-
-Rackula helps you plan and document your homelab rack layouts with an intuitive drag-and-drop interface. Designed from the ground up with the Dracula color palette for dark mode, with Alucard for light mode.
 
 ## Install
 
@@ -14,11 +10,11 @@ All instructions can be found at [draculatheme.com/rackula](https://draculatheme
 
 ## Team
 
-This app is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/ggfevans/Rackula/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/rackula/graphs/contributors).
 
 | [![Gareth Evans](https://github.com/ggfevans.png?size=100)](https://github.com/ggfevans) |
-| --- |
-| [Gareth Evans](https://github.com/ggfevans) |
+| ---------------------------------------------------------------------------------------- |
+| [Gareth Evans](https://github.com/ggfevans)                                              |
 
 ## Community
 
