@@ -1,6 +1,6 @@
 # Dracula for [Rackula](https://count.racku.la)
 
-> A dark theme for [Rackula](https://count.racku.la).
+> Native themeing for [Rackula](https://count.racku.la): a drag-and-drop rack visualizer.
 
 ![Screenshot](./screenshot.png)
 
